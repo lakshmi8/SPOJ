@@ -1,8 +1,4 @@
 // Runtime: 0.00 s
-// http://ideone.com/iH8yVe
-// Topological sort
-// O(V+E)
-// Using indegree algorithm
 // Topological sort
 // O(V+E)
 // Using indegree algorithm
