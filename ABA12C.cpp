@@ -1,3 +1,4 @@
+// Runtime: 0.00 s
 #include<iostream>
 #include<stdio.h>
 #include<algorithm>
