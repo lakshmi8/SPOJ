@@ -1,7 +1,7 @@
 SPOJ
 ====
 
-My spoj solutions.
+My solutions to several problems on spoj.
 
 I recommend you to try solving the problem atleast once before looking into my solution :)
 
